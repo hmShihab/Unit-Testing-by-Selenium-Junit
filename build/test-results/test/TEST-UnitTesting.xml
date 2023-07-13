@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UnitTesting" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-07-13T18:59:02" hostname="HMSHIHAB" time="18.199">
+  <properties/>
+  <testcase name="User should submit the form properly" classname="UnitTesting" time="10.506"/>
+  <testcase name="View menu bar by hovering cursor" classname="UnitTesting" time="4.83"/>
+  <testcase name="check social sharing block" classname="UnitTesting" time="1.193"/>
+  <testcase name="View the web title" classname="UnitTesting" time="0.865"/>
+  <testcase name="check banner title" classname="UnitTesting" time="0.802"/>
+  <system-out><![CDATA[Practice webform for learners | Digital Unite
+]]></system-out>
+  <system-err><![CDATA[Jul 14, 2023 12:58:58 AM org.openqa.selenium.remote.service.DriverService$Builder getLogOutput
+INFO: Driver logs no longer sent to console by default; https://www.selenium.dev/documentation/webdriver/drivers/service/#setting-log-output
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
